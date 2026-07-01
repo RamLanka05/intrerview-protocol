@@ -4,7 +4,16 @@ A unified system for managing recruiting pipeline, LeetCode preparation, and int
 
 **Status:** In development
 
-**Components:**
-- Browser extension (LeetCode → Notion sync)
-- Gmail integration (recruiter email → Notion)
-- Claude analyzer (pattern detection + recommendations)
+## Components
+
+- **Browser Extension** — Syncs LeetCode submissions to Notion
+- **Gmail Integration** — Auto-updates interview pipeline from recruiter emails
+- **Claude Analyzer** — Detects weak patterns, generates personalized prep recommendations
+
+## Architecture
+
+See `docs/ARCHITECTURE.md` for system design.
+
+## Setup
+
+(Coming soon)
